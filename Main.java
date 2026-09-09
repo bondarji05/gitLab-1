@@ -3,7 +3,7 @@ public class Main {
 
         User user1 = new User();
         User user2 = new User();
-
+        User user3 = new User();
 
         user1.setName("Вася");
         user2.setName("Петя");
