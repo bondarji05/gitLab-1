@@ -20,6 +20,6 @@ public class Main {
 
         System.out.println(user1.getName() + " написал сообщение: " + mes1.getInfo());
         System.out.println(user2.getName() + " написал сообщение: " + mes2.getInfo());
-
+        System.out.println("Версия из dev");
     }
 }
