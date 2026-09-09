@@ -10,6 +10,9 @@ public class Main {
 
         Message mes1 = new Message();
         Message mes2 = new Message();
+        Message mes3 = new Message();
+
+
 
         mes2.setInfo("ВАААААУ");
 
